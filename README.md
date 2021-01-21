@@ -43,38 +43,32 @@ atribut serta operasi yang sama.
 > ### PENJELASAN PROGRAM 
 
 #### •	Halaman Awal 
- ![Tampilan Awal](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Tampilan-Awal-Program.PNG)
-Untuk halaman awalnya cukup sederhana, dengan gambar serta nama aplikasi yaitu "Library Management System : Complete, Automated Library Management Software" dengan menu next.
+ ![Tampilan Awal](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Tampilan-Awal-Program.PNG)  
+ Untuk halaman awalnya cukup sederhana, dengan gambar serta nama aplikasi yaitu "Library Management System : Complete, Automated Library Management Software" dengan menu next.
 
 #### •	Halaman Sign Up & Login  
  ![Tampilan Sign Up](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Register-Page.PNG)
- ![Tampilan Login](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Login-Page.PNG) 
-Dimana terdapat halaman masuk sign up apabila tidak memiliki akun dan login jika sudah memiliki akun. Apabila lupa password akun, maka disini terdapat pilihan Forgot Password dan Trouble Login.
+ ![Tampilan Login](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Login-Page.PNG)  
+ Dimana terdapat halaman masuk sign up apabila tidak memiliki akun dan login jika sudah memiliki akun. Apabila lupa password akun, maka disini terdapat pilihan Forgot Password dan Trouble Login.
 
 #### •	Dashboard Menu Aplikasi 
-![Tampilan Menu Aplikasi](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Index-Page.PNG) 
+![Tampilan Menu Aplikasi](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Index-Page.PNG)  
 Saat user berhasil masuk ke sistem, maka akan tampil halaman dashboard menu aplikasi tersebut yang terdiri dari Add Books, Statistics, Add Student, Issue Book, Return Book dan About Us.
 
 #### •	Add Books
-![Tampilan Add Books](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Add-Book-Page.PNG) 
-Pada halaman ini digunakan untuk menambahkan data buku yang ada di perpustakaan tersebut.  Berisi identitas buku seperti Book, Nama Buku, ISBN, Publisher, Edition, Price serta Pages. 
+![Tampilan Add Books](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Add-Book-Page.PNG)  Pada halaman ini digunakan untuk menambahkan data buku yang ada di perpustakaan tersebut.  Berisi identitas buku seperti Book, Nama Buku, ISBN, Publisher, Edition, Price serta Pages. 
 
 #### •	Statistics  
-![Tampilan Statistics](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/History-Page-with-issuebookandreturnbook.PNG) 
-Pada halaman ini digunakan untuk menampilkan informasi data peminjaman serta pengembalian buku.
+![Tampilan Statistics](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/History-Page-with-issuebookandreturnbook.PNG) Pada halaman ini digunakan untuk menampilkan informasi data peminjaman serta pengembalian buku.
 
 #### •	Add Student 
-![Tampilan Add Student](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Add-Student.PNG) 
-Pada halaman ini digunakan untuk menambahkan pengguna (student) yang akan melakukan peminjaman atau pengembalian buku. Berisi identitas profil dari pengguna tersebut seperti ID Student, Nama, Father's Name, Course, Branch, Year, serta Semester.
+![Tampilan Add Student](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Add-Student.PNG)  Pada halaman ini digunakan untuk menambahkan pengguna (student) yang akan melakukan peminjaman atau pengembalian buku. Berisi identitas profil dari pengguna tersebut seperti ID Student, Nama, Father's Name, Course, Branch, Year, serta Semester.
 
 #### •	Issue Book  
-![Tampilan Issue Book](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Issue-Book-Page-With-insert.PNG) 
-Pada halaman ini digunakan untuk menambahkan data pengguna (student) yang melakukan peminjaman buku. Berisi ID Buku yang dipinjam, Nama Peminjam, ISBN, Publisher, Edition, Price, Pages serta Date of Issue.
+![Tampilan Issue Book](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Issue-Book-Page-With-insert.PNG)  Pada halaman ini digunakan untuk menambahkan data pengguna (student) yang melakukan peminjaman buku. Berisi ID Buku yang dipinjam, Nama Peminjam, ISBN, Publisher, Edition, Price, Pages serta Date of Issue.
 
 #### •	Return Book 
-![Tampilan Return Book](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Return-Book-Page-with-insert.PNG) 
-Pada halaman ini menampilkan data pengguna (student) yang telah melakukan pengembalian buku. Berisi ID Buku yang dipinjam, Nama Buku, Data Pengguna (student), Date of Issue serta Date of Return.
+![Tampilan Return Book](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/Return-Book-Page-with-insert.PNG)  Pada halaman ini menampilkan data pengguna (student) yang telah melakukan pengembalian buku. Berisi ID Buku yang dipinjam, Nama Buku, Data Pengguna (student), Date of Issue serta Date of Return.
 
 #### •	About Us  
-![Tampilan About Us](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/About-Page.PNG) 
-Pada halaman ini menampilkan Developed software "Library Management System" yaitu Ghina Aramita dan Nabilah Putri.
+![Tampilan About Us](https://raw.githubusercontent.com/ghinaramita/Final-Project-PBO/master/Screenshot/About-Page.PNG)  Pada halaman ini menampilkan Developed software "Library Management System" yaitu Ghina Aramita dan Nabilah Putri.
